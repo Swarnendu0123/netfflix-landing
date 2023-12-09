@@ -6,8 +6,6 @@
 
 body {
   background-image: url("./background.jpg");
-  /* i want a transparent background color on top of img*/
-  background-color: #ffffff;
   background-size: 1500px 1200px;
 }
 
